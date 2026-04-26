@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/double_pendulum/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

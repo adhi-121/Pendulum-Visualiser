@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\pendulum_opengl.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\pendulum_opengl.dir/objects.a @CMakeFiles\pendulum_opengl.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\pendulum_opengl.dir/objects.a -Wl,--no-whole-archive -o pendulum_opengl.exe -Wl,--out-implib,libpendulum_opengl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pendulum_opengl.dir\linkLibs.rsp

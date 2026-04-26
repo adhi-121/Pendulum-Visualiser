@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\src\\main.cpp.obj -c C:\\double_pendulum\\src\\main.cpp",
+  "file": "C:/double_pendulum/src/main.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\src\\Shader.cpp.obj -c C:\\double_pendulum\\src\\Shader.cpp",
+  "file": "C:/double_pendulum/src/Shader.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/pendulum_opengl.dir/includes_C.rsp -g -o CMakeFiles\\pendulum_opengl.dir\\libs\\glad\\src\\glad.c.obj -c C:\\double_pendulum\\libs\\glad\\src\\glad.c",
+  "file": "C:/double_pendulum/libs/glad/src/glad.c",
+  "output": "CMakeFiles/pendulum_opengl.dir/libs/glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\imgui\\imgui.cpp.obj -c C:\\double_pendulum\\imgui\\imgui.cpp",
+  "file": "C:/double_pendulum/imgui/imgui.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\imgui\\imgui_draw.cpp.obj -c C:\\double_pendulum\\imgui\\imgui_draw.cpp",
+  "file": "C:/double_pendulum/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\imgui\\imgui_tables.cpp.obj -c C:\\double_pendulum\\imgui\\imgui_tables.cpp",
+  "file": "C:/double_pendulum/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\imgui\\imgui_widgets.cpp.obj -c C:\\double_pendulum\\imgui\\imgui_widgets.cpp",
+  "file": "C:/double_pendulum/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c C:\\double_pendulum\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "C:/double_pendulum/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/imgui/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/double_pendulum/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pendulum_opengl.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\pendulum_opengl.dir\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\double_pendulum\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:/double_pendulum/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/pendulum_opengl.dir/imgui/backends/imgui_impl_opengl3.cpp.obj"
+}
+]

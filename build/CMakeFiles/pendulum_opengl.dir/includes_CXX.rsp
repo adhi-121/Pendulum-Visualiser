@@ -1,0 +1,1 @@
+-IC:/double_pendulum/include -IC:/double_pendulum/libs/glfw/include -IC:/double_pendulum/libs/glad/include -IC:/double_pendulum/imgui -IC:/double_pendulum/imgui/backends
